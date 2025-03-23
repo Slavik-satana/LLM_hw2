@@ -57,8 +57,8 @@ open index.html
 - Разделение данных на обучающую и тестовую выборки.
 
 ### Графики обучения
-![Training and Validation Loss](./model/training_loss.png)
-![Training and Validation Perplexity](./model/training_perplexity.png)
+![Training and Validation Loss](./model/model/training_loss.png)
+![Training and Validation Perplexity](./model/model/training_perplexity.png)
 
 
 ## Пример работы веб-сервиса
